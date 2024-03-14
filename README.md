@@ -1,7 +1,7 @@
 # TP1PROVIS
-### Salma Ghaida 
-### 2207186
-### Ilmu Komputer C1
+Salma Ghaida 
+2207186
+Ilmu Komputer C1
 
 ## Konsep OOP:
 
